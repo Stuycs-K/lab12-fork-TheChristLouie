@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "needmoresleep.h"
+#include "forkbomb.h"
 int main(){
   process();
   return 0;
